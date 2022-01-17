@@ -1,0 +1,10 @@
+package HalukHocaManav;
+
+public class C01_odev2 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
